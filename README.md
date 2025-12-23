@@ -1,13 +1,9 @@
 <!--타이틀 부분-->
-<h1 align="center">Welcome 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFF3B0,100:FFE8A3&height=260&text=Welcome%20to%20Hyorin%27s%20GitHub&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFF3B0,100:FFE8A3&height=260&text=Welcome%20to%20Hyorin%27s%20GitHub&fontSize=70" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFF3B0,100:FFE8A3&height=220&text=Computer%20Vision%20%C2%B7%20Machine%20Learning%20%C2%B7%20Python&fontSize=60" />
-</p>
 
 </p>
 <!--내용 부분-->
