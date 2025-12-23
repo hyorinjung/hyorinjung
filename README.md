@@ -1,9 +1,11 @@
-## Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFF3B0,100:FFE8A3&height=300&section=header&text=I%27m%20Hyorin!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFF3B0,100:FFE8A3&height=300&section=header&text=Hi,I%27m%20Hyorin!&fontSize=90)
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 ![footer](https://capsule-render.vercel.app/api?section=footer)
+
+
+
+
 <!--
 **hyorinjung/hyorinjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
