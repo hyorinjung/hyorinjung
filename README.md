@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=I%27m%20Hyorin!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFF3B0,100:FFE8A3&height=300&section=header&text=I%27m%20Hyorin!&fontSize=90)
+
 
 
 <!--
