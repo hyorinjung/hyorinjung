@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=I'm Hyorin!%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=I%27m%20Hyorin!&fontSize=90)
+
 
 <!--
 **hyorinjung/hyorinjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
