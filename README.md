@@ -1,7 +1,5 @@
 <!--타이틀 부분-->
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFF3B0,100:FFE8A3&height=260&text=Welcome%20to%20Hyorin%27s%20GitHub&fontSize=80)
-</div>
+<h1 align="center">Welcome to Hyorin's GitHub 👋</h1>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
